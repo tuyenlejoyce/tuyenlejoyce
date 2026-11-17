@@ -10,7 +10,7 @@ I treat marketing as a business investment: every initiative needs a clear purpo
 ## Currently
 
 - Consulting and collaborating with SMEs and individuals to achieve breakthrough growth.
-- Working on market repositioning in the technology sector—aligning positioning and value propositions with the opportunities and challenges of the AI era.
+- Co-driving strategic repositioning in the technology sector for the AI era—shaping target markets, positioning, AI service offerings, pricing, and go-to-market strategy.
 - Exploring how AI and automation can improve marketing decisions, workflows, and measurement.
 - Developing practical resources to turn marketing knowledge into repeatable ways of working.
 
