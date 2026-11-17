@@ -1,23 +1,24 @@
-### Marketing Strategy & Management · Revenue Contribution · AI in Practice
+### Hi there 👋
 
-**Marketing is a business investment. Its value must be measurable.**
+# I’m Tuyen (Joyce).
+**Associate Marketing Manager | Strategy, Execution & Business Growth**
 
-I’m Tuyen (Joyce), an Associate Marketing Manager with a business-first approach to marketing. I work across segmentation, targeting, positioning, and the marketing mix — connecting decisions about products, pricing, distribution, and promotion with customer needs and business objectives.
+I work across marketing strategy and execution — from segmentation, targeting, positioning, and the marketing mix to campaigns, performance measurement, and cross-functional coordination.
 
-My focus is turning those decisions into coordinated execution and measurable commercial results. That means defining what each initiative is expected to achieve, how resources should be allocated, and how performance will be assessed - from customer acquisition and conversion to revenue contribution.
+I treat marketing as a business investment: every initiative needs a clear purpose, accountable use of resources, and a measurable contribution to customer acquisition, revenue, or long-term growth.
 
-### How I approach marketing
+## Currently
 
-- **Make deliberate market choices.** Identify which customers to serve, where to compete, and what gives them a compelling reason to choose us
-- **Manage the full marketing mix.** Align product, price, place, and promotion around a clear value proposition and commercial objectives
-- **Treat marketing spend as an investment.** Set objectives, establish measures, and evaluate returns to inform where to invest, improve, or stop
-- **Connect marketing with revenue.** Work across teams to turn market opportunities into demand, sales opportunities, and customer growth
-- **Build a more effective marketing function.** Improve planning, processes, collaboration, and measurement, while applying AI where it adds practical value
+- Consulting and collaborating with SMEs and individuals to achieve breakthrough growth.
+- Working on market repositioning in the technology sector—aligning positioning and value propositions with the opportunities and challenges of the AI era.
+- Exploring how AI and automation can improve marketing decisions, workflows, and measurement.
+- Developing practical resources to turn marketing knowledge into repeatable ways of working.
 
-### Why I’m on GitHub
+## Why GitHub
 
-I’m exploring how AI and automation can improve marketing decisions, execution, and measurement—building practical tools and workflows that connect marketing investment to business results.
+A place to build, test, and share marketing frameworks, tools, and workflows—and improve them through practice.
 
-### Let’s connect
+## Let’s connect
 
-Connect with me on [LinkedIn](https://www.linkedin.com/in/tuyenle1501/) to exchange ideas on marketing, business growth, and practical AI applications.
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/tuyenle1501/)
+[![Website](https://img.shields.io/badge/Website-222222?style=flat-square&logo=googlechrome&logoColor=white)](https://atagrow.com/)
