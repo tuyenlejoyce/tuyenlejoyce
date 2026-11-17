@@ -17,3 +17,7 @@ My focus is turning those decisions into coordinated execution and measurable co
 ### Why I’m on GitHub
 
 I’m exploring how AI and automation can improve marketing decisions, execution, and measurement—building practical tools and workflows that connect marketing investment to business results.
+
+### Let’s connect
+
+Connect with me on [LinkedIn](https://www.linkedin.com/in/tuyenle1501/) to exchange ideas on marketing, business growth, and practical AI applications.
